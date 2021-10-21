@@ -1,0 +1,21 @@
+intents:
+  - welcome
+  - Register
+ 
+actions:
+- utter_welcome
+- utter_Register
+
+templates:
+  utter_welcome:
+  - text: Hello, welcome to the textom.ai
+  - text: please tell me your first name
+
+
+  utter_Register:
+  - text: Hello, welcome to the textom.ai
+  - text: please tell me your first name
+
+
+
+ 
